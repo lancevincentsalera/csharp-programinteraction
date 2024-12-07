@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ProgramInteraction</id>
+    <version>1.0.0</version>
+    <authors>ProgramInteraction</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/Users/lance/MyProjects/ProgramInteraction/obj/DotnetToolSettings.xml" target="tools/net9.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.dll" target="tools/net9.0/any/ProgramInteraction.dll" />
+    <file src="/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.deps.json" target="tools/net9.0/any/ProgramInteraction.deps.json" />
+    <file src="/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.runtimeconfig.json" target="tools/net9.0/any/ProgramInteraction.runtimeconfig.json" />
+    <file src="/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.pdb" target="tools/net9.0/any/ProgramInteraction.pdb" />
+  </files>
+</package>

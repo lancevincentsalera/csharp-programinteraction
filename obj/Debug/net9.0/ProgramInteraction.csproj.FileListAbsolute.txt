@@ -1,0 +1,14 @@
+/Users/lance/MyProjects/ProgramInteraction/bin/Debug/net9.0/ProgramInteraction
+/Users/lance/MyProjects/ProgramInteraction/bin/Debug/net9.0/ProgramInteraction.deps.json
+/Users/lance/MyProjects/ProgramInteraction/bin/Debug/net9.0/ProgramInteraction.runtimeconfig.json
+/Users/lance/MyProjects/ProgramInteraction/bin/Debug/net9.0/ProgramInteraction.dll
+/Users/lance/MyProjects/ProgramInteraction/bin/Debug/net9.0/ProgramInteraction.pdb
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.AssemblyInfoInputs.cache
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.AssemblyInfo.cs
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.csproj.CoreCompileInputs.cache
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.dll
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/refint/ProgramInteraction.dll
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.pdb
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ProgramInteraction.genruntimeconfig.cache
+/Users/lance/MyProjects/ProgramInteraction/obj/Debug/net9.0/ref/ProgramInteraction.dll

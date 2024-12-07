@@ -1,0 +1,5 @@
+/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction
+/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.dll
+/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.deps.json
+/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.runtimeconfig.json
+/Users/lance/MyProjects/ProgramInteraction/bin/Release/net9.0/publish/ProgramInteraction.pdb
